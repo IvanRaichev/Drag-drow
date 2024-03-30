@@ -1,5 +1,5 @@
 
-# <a href="https://ivanraichev.github.io/Drag-drow/">Drag-drop</a>
+# <a href="https://ivanraichev.github.io/Drag-drow/">Drag-drop Example</a>
 "Drag and Drop is a simple and intuitive web application that provides the ability to drag and drop and manipulate elements on a web page
 
 The following technologies were used 
